@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Innovation",
+    "tabColor": "orange",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.inn.assignor1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Assignor"
+      },
+      {
+        "email": "emtech.temp7+bog.inn.rev1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Reviewer"
+      },
+      {
+        "email": "emtech.temp7+bog.inn.appr1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Approver"
+      }
+    ]
+  },
+  {
+    "name": "Licensing",
+    "tabColor": "green",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.lic.assignor1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Assignor"
+      }
+    ]
+  }
+]
