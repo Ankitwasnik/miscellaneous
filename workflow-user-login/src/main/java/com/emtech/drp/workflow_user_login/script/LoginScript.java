@@ -6,7 +6,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
-import java.util.ArrayList;
 import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -39,10 +38,10 @@ public class LoginScript {
 
     for (final Department dept : departments1) {
       for (final User user : dept.getUsers()) {
-        final String container_name = dept.getName() + " " + user.getRole();
-        final String container_url = "ext+container:name=" + container_name + "&url=" + URL + "&color=" + dept.getTabColor();
-        driver.get(container_url);
-        Thread.sleep(5000);
+        final String containerName = dept.getName() + " " + user.getRole();
+        final String containerUrl = "ext+container:name=" + containerName + "&url=" + URL + "&color=" + dept.getTabColor();
+        driver.get(containerUrl);
+        Thread.sleep(2000);
         final String[] windows = driver.getWindowHandles().toArray(new String[0]);
         driver.switchTo().window(windows[windows.length - 1]);
         driver.get(URL);

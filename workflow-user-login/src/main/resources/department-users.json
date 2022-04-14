@@ -14,9 +14,9 @@
         "role": "Reviewer"
       },
       {
-        "email": "emtech.temp7+bog.inn.appr1@gmail.com",
+        "email": "emtech.temp7+bog.inn.final.approver@gmail.com",
         "password": "!AmPhan@20$",
-        "role": "Approver"
+        "role": "Final Approver"
       }
     ]
   },
@@ -28,6 +28,133 @@
         "email": "emtech.temp7+bog.lic.assignor1@gmail.com",
         "password": "!AmPhan@20$",
         "role": "Assignor"
+      },
+      {
+        "email": "emtech.temp7+bog.lic.rev1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Reviewer"
+      },
+      {
+        "email": "emtech.temp7+bog.lic.head1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "HOD"
+      }
+    ]
+  },
+  {
+    "name": "FSD AML",
+    "tabColor": "blue",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.fsd.aml.assignor1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Assignor"
+      },
+      {
+        "email": "emtech.temp7+bog.fsd.aml.rev1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Reviewer"
+      },
+      {
+        "email": "emtech.temp7+bog.fsd.aml.approver1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Approver"
+      }
+    ]
+  },
+  {
+    "name": "FSD MC",
+    "tabColor": "pink",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.fsd.mc.assignor1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Assignor"
+      },
+      {
+        "email": "emtech.temp7+bog.fsd.mc.rev1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Reviewer"
+      },
+      {
+        "email": "emtech.temp7+bog.fsd.mc.approver1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Approver"
+      }
+    ]
+  },
+  {
+    "name": "Reg Sup",
+    "tabColor": "green",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.reg.sup.assignor1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Assignor"
+      },
+      {
+        "email": "emtech.temp7+bog.reg.sup.rev1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Reviewer"
+      },
+      {
+        "email": "emtech.temp7+bog.reg.sup.approver1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Approver"
+      }
+    ]
+  },
+  {
+    "name": "IT Ops",
+    "tabColor": "red",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.it.ops.assignor1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Assignor"
+      },
+      {
+        "email": "emtech.temp7+bog.it.ops.reviewer1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Reviewer"
+      },
+      {
+        "email": "emtech.temp7+bog.it.ops.approver1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "Approver"
+      }
+    ]
+  },
+  {
+    "name": "FSD",
+    "tabColor": "blue",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.fsd.head1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "HOD"
+      }
+    ]
+  },
+  {
+    "name": "Legal",
+    "tabColor": "orange",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.legal.head1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "HOD"
+      }
+    ]
+  },
+  {
+    "name": "IT",
+    "tabColor": "green",
+    "users": [
+      {
+        "email": "emtech.temp7+bog.it.head1@gmail.com",
+        "password": "!AmPhan@20$",
+        "role": "HOD"
       }
     ]
   }
